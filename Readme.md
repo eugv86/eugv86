@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=:wave:+Hello!+I'm+Eugene+Vygodner;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&multiline=true&width=480&height=150&lines=%F0%9F%91%8B+Hello!+I'm+Eugene+Vygodner;10%2B+years+experience;still+don't+know+what+I'm+doing+%F0%9F%98%B6;on+the+daily.;This+is+the+way+%F0%9F%98%81)](https://git.io/typing-svg)
